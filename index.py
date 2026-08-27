@@ -6,7 +6,6 @@ import streamlit as st
 # Page Configuration
 st.set_page_config(
     page_title="Car Market Trends Analysis",
-    page_icon="🚗",
     layout="wide"
 )
 
